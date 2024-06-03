@@ -36,6 +36,3 @@ This is the space where I spend most of my time where, imagination and creativit
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauacarrijo&layout=compact&show_icons=true&theme=buefy)](https://github.com/kauazagocarrijo/github-readme-stats)
 
-<br />
-
-[![Kaua's github stats](https://github-readme-stats.vercel.app/api?username=kauacarrijo&show_icons=true&theme=buefy)](https://github.com/kauazagocarrijo/github-readme-stats)
